@@ -1,0 +1,5 @@
+D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\bin\Debug\Models.dll
+D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\bin\Debug\Models.pdb
+D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\ResolveAssemblyReference.cache
+D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\Models.dll
+D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\Models.pdb
