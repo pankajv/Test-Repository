@@ -3,3 +3,8 @@ D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models
 D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\ResolveAssemblyReference.cache
 D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\Models.dll
 D:\Pankaj_data\Development\Preparation For Turner\MVC\3.0\Projects\Models\Models\obj\Debug\Models.pdb
+D:\Test-Repository\Models\Models\bin\Debug\Models.dll
+D:\Test-Repository\Models\Models\bin\Debug\Models.pdb
+D:\Test-Repository\Models\Models\obj\Debug\ResolveAssemblyReference.cache
+D:\Test-Repository\Models\Models\obj\Debug\Models.dll
+D:\Test-Repository\Models\Models\obj\Debug\Models.pdb

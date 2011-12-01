@@ -1,0 +1,5 @@
+D:\Test-Repository\Models\TestConsoleApps\bin\Debug\TestConsoleApps.exe
+D:\Test-Repository\Models\TestConsoleApps\bin\Debug\TestConsoleApps.pdb
+D:\Test-Repository\Models\TestConsoleApps\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Test-Repository\Models\TestConsoleApps\obj\x86\Debug\TestConsoleApps.exe
+D:\Test-Repository\Models\TestConsoleApps\obj\x86\Debug\TestConsoleApps.pdb
